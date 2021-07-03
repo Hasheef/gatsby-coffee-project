@@ -25,3 +25,9 @@ h6 {
 .text-yellow {
   color: var(--mainYellow);
 }
+
+.cart-icon {
+  cursor: pointer;
+  color: var(--mainYellow);
+  font-size: 2rem;
+}
